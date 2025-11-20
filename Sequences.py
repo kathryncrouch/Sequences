@@ -1,5 +1,3 @@
-### TESTING GITHUB ###
-
 # create the superclass
 class Sequence:
 
